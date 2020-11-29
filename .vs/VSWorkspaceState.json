@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\images",
-    "\\images\\demo",
+    "\\layout",
+    "\\layout\\styles",
     "\\pages"
   ],
-  "SelectedNode": "\\images\\demo\\imgr.gif",
+  "SelectedNode": "\\pages\\introduction.html",
   "PreviewInSolutionExplorer": false
 }
